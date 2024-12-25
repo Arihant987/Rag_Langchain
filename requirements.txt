@@ -1,0 +1,15 @@
+python-dotenv
+langchain
+ipykernel
+langchain_community
+pypdf
+langchain_openai
+chromadb 
+langchain_core
+langchainhub
+llama-index
+llama-parser
+openai
+docarray
+giskard
+giskard[llm]
