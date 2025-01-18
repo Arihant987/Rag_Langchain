@@ -4,12 +4,15 @@ ipykernel
 langchain_community
 pypdf
 langchain_openai
-chromadb 
+chromadb
+langchain-chroma
 langchain_core
 langchainhub
 llama-index
 llama-parser
+llama-parse
 openai
 docarray
 giskard
 giskard[llm]
+langgraph
